@@ -1,5 +1,5 @@
 # live-chat
-
+Live chat web app. Vuejs and Firebase.
 ## Project setup
 ```
 npm install
